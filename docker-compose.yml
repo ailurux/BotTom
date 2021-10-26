@@ -1,0 +1,6 @@
+services:
+  app:
+    platform: linux/amd64
+    build: .
+    environment: 
+      - token=${token}
