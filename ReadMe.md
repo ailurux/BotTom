@@ -1,6 +1,8 @@
 # Bot Tom 🥺
 
-# Usage
+An auto-spoiler bot for Discord (for reasons)
+
+## Usage
 
 Copy .env.sample to .env and add your Discord bot token.
 
